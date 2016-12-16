@@ -15,7 +15,9 @@ Once the data has been entered the program must analyze the data and output whic
 ★★★★ Modify the program so that it outputs a list in order of number of pancakes eaten of all 10 people.
 i.e.
 Person 4: ate 10 pancakes
+
 Person 3: ate 7 pancakes
+
 Person 8: ate 4 pancakes
 ...
 Person 5: ate 0 pancakes
